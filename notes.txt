@@ -1,0 +1,17 @@
+topleft: 128, 260
+topright: 1500, 470
+bottomleft: 180, 1400
+bottomright: 1182, 1640
+
+0x0dc43590
+0x0dc835c0
+0x0dcc35f0
+
+4858363
+1016666 (wihout sobel)
+339xxxx after atan2() opti
+
+sobel:
+atan2(): 2600000
+sqrt():   700000
+
